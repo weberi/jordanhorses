@@ -15,7 +15,7 @@ title: "Half-Day Private Indiana Jones Petra Back Road Trial Tour"
 
 Horse riding inside Petra structures and mountains is splendid experience which the tourist ever had. The back trail is unique because we will start it at little Petra which is unforgettable attraction site which leads to more exquisite places inside the old city Petra. Like the Monastery which is greatest and largest place in Petra. There will be a stunning view to mountains for Jordan and the west bank. The traveler will see the best view in the world there. Will be back to other site in Petra such as the theater, Royal tombs, and treasury the traveler will explore these place closely. 
 
-{{< figure src="/images/pferde.jpg" title="Beautiful Horses are taking a break" >}}
+{{< figure src="https://weberi.github.io/jordanhorses/images/pferde.jpg" title="Beautiful Horses are taking a break" >}}
 
 
 ## Itinerary

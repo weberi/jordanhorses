@@ -15,10 +15,10 @@ cascade:
 Get to know us and our way of life.
 
 
-{{< figure src="/images/calm.jpg" title="Calm" >}}
+{{< figure src="https://weberi.github.io/jordanhorses/images/calm.jpg" title="Calm" >}}
 
-{{< figure src="/images/onhorseback.jpg" title="On horseback" >}}
+{{< figure src="https://weberi.github.io/jordanhorses/images/onhorseback.jpg" title="On horseback" >}}
 
-{{< figure src="/images/campbynight.jpg" title="Camp by Night" >}}
+{{< figure src="https://weberi.github.io/jordanhorses/images/campbynight.jpg" title="Camp by Night" >}}
 
-{{< figure src="/images/food.jpg" title="Share delicious, authentic Food" >}}
+{{< figure src="https://weberi.github.io/jordanhorses/images/food.jpg" title="Share delicious, authentic Food" >}}
