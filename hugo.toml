@@ -1,4 +1,4 @@
-baseURL = 'https://weberi.github.io/jordanhorses/'
+baseURL = 'https://weberi.github.io/jordanhorses'
 languageCode = 'en-us'
 title = 'Jordan Horses'
 theme = 'ananke'
