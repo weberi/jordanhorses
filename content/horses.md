@@ -15,11 +15,11 @@ title: "Jordan Horses - Horses"
 
 
 
-{{< figure src="/images/stable.jpg" title="In the Stables" >}}
+{{< figure src="https://weberi.github.io/jordanhorses/images/stable.jpg" title="In the Stables" >}}
 
-{{< figure src="/images/horse1.jpg" title="The herd is growing." >}}
+{{< figure src="https://weberi.github.io/jordanhorses/images/horse1.jpg" title="The herd is growing." >}}
 
 
-{{< figure src="/images/horse.jpg" title="A proud Arabian" >}}
+{{< figure src="https://weberi.github.io/jordanhorses/images/horse.jpg" title="A proud Arabian" >}}
 
-{{< figure src="/images/pferde.jpg" title="A Pause during our Trip" >}}
+{{< figure src="https://weberi.github.io/jordanhorses/images/pferde.jpg" title="A Pause during our Trip" >}}
