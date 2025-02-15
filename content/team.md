@@ -20,8 +20,8 @@ Mohammad loves his horses and his homeland. He spends his days tending to his ho
 ## Mohammad and his Team
 
 
-{{< figure src="images/cook.jpg" title="Cook" >}}
-{{< figure src="cook.jpg" title="Our happy  Cook" >}}
-{{< figure src="images/guide1.jpg" title="Guide" >}}
+{{< figure src="https://weberi.github.io/jordanhorses/images/cook.jpg" title="Cook" >}}
+{{< figure src="https://weberi.github.io/jordanhorses/cook.jpg" title="Our happy  Cook" >}}
+{{< figure src="https://weberi.github.io/jordanhorses/images/guide1.jpg" title="Guide" >}}
 
-{{< figure src="images/guide2.jpg" title="Guide" >}}
+{{< figure src="https://weberi.github.io/jordanhorses/images/guide2.jpg" title="Guide" >}}

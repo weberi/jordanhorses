@@ -17,8 +17,8 @@ title: "Jordan Horses - Horses"
 
 {{< figure src="/images/stable.jpg" title="In the Stables" >}}
 
-{{< figure src="/images/horse1.jpg" title="Baby" >}}
-The herd is growing.
+{{< figure src="/images/horse1.jpg" title="The herd is growing." >}}
+
 
 {{< figure src="/images/horse.jpg" title="A proud Arabian" >}}
 
