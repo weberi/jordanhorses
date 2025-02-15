@@ -5,6 +5,7 @@ featured_image: "/images/petrabluelizard.jpg"
 tags: []
 omit_header_text: true
 private: true
+draft: false
 title: "Half-Day Private Indiana Jones Petra Back Road Trial Tour"
 ---
 

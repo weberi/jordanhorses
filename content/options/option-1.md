@@ -5,6 +5,7 @@ featured_image: "/images/petra.jpg"
 text_color: "dark-gray"
 omit_header_text: true
 private: true
+draft: false
 tags: []
 title: "Private Indiana-Jones Archeological Trail Tour"
 ---

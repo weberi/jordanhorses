@@ -3,6 +3,7 @@ title: "Jordan Horses - Options"
 date: 2025-01-01
 omit_header_text: true
 private: true
+draft: false
 read_more_copy: "Discover ..."
 ---
 

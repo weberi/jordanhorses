@@ -5,6 +5,7 @@ featured_image: "/images/petra.jpg"
 tags: []
 omit_header_text: true
 private: true
+draft: false
 title: "Jordan Horses - Horses"
 ---
 
