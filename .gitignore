@@ -1,0 +1,24 @@
+# Hugo-generated files
+/public/
+/resources/
+/assets/
+hugo_stats.json
+
+# Theme submodule (if using submodules, do not track the theme)
+themes/hugo-travelify-theme/
+
+# Logs and temporary files
+.DS_Store
+*.log
+*.bak
+*.swp
+
+# Local development settings
+.env
+.idea/
+.vscode/
+node_modules/
+
+# Hugo cache
+.cache/
+hugo_cache/

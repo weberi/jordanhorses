@@ -1,0 +1,70 @@
+baseURL = 'https://jordanhorse.pages.dev/'
+languageCode = 'en-us'
+title = 'Jordan Horses'
+theme = 'ananke'
+
+defaultContentLanguage = "en"
+enableRobotsTXT = false
+
+[menu]
+  [[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+  [[menu.main]]
+  name = "Options"
+  url = "/options/"
+  weight = 2
+
+  [[menu.main]]
+  name = "Team"
+  url = "/Team/"
+  weight = 3
+
+  [[menu.main]]
+  name = "Horses"
+  url = "/horses/"
+  weight = 4
+
+  [[menu.main]]
+  name = "Camplife"
+  url = "/camplife/"
+  weight = 5
+
+
+  [[menu.main]]
+  name = "Contact"
+  url = "/contact/"
+  weight = 6
+
+
+
+
+
+
+[pagination]
+pagerSize = 12 
+
+[params]
+custom_css = ["custom.css"]
+mainSections = ["options", "team", "horses", "camplife", "contact"]
+background_color_class = "bg-yellow"
+cover_dimming_class = "bg-gold-80"
+featured_image_class = "cover bg-top"
+text_color = "dark-gray"
+
+body_classes = "avenir bg-light-silver"
+post_content_classes = "avenir bg-light-silver"
+
+
+read_more_copy = "Discover..."
+
+[params.ananke.social.follow]
+networks = [
+  "facebook"
+]
+
+[params.ananke.social.facebook]
+username = "Petra.Jordan"
+# profilelink = "https://www.facebook.com/Petra.Jordan"
