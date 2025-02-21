@@ -8,6 +8,7 @@ private: true
 draft: false
 tags: []
 title: "Horse Riding Tour in Petra-tomb Haroun Trial"
+featured_image: '/images/camplife2.jpg'
 summary: "This is unique tour inside Petra, the travelers will not force to walk for long distances. we have certified horses the travelers can ride it and start his tour easily.
 
 Moreover the travelers can see all the sites inside Petra while they ride the horses."

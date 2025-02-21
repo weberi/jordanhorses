@@ -28,8 +28,8 @@
   </url><url>
     <loc>http://localhost:1313/jordanhorses/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/jordanhorses/tags/</loc>
-  </url><url>
     <loc>http://localhost:1313/jordanhorses/camplife/</loc>
+  </url><url>
+    <loc>http://localhost:1313/jordanhorses/tags/</loc>
   </url>
 </urlset>

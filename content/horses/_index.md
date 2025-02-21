@@ -1,7 +1,6 @@
 ---
 date: 2025-01-01
-description: "Jordan Horses - Our Horses"
-featured_image: "/images/petra.jpg"
+description: "Meet Our Horses"
 tags: []
 omit_header_text: true
 private: true

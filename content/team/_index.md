@@ -1,12 +1,12 @@
 ---
 date: 2025-01-01
 description: "Who we are"
-featured_image: "/images/campbynight.jpg"
 tags: []
 omit_header_text: true
 private: true
 draft: false
 title: "Jordan Horses - Team"
+featured_image: '/images/camplife2.jpg'
 ---
 
 

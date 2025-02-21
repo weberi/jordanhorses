@@ -1,13 +1,12 @@
 ---
-title: "Welcome to Jordan Horse Tours"
+title: "Jordan Horse Tours - Camplife"
 
-description: "Horse Riding Tours and Camps around Petra, Jordan"
+description: "Jordan Horse Tours - Camplife"
 theme_version: '2.8.2'
 omit_header_text: true
 private: true
 draft: false
-cascade:
-  featured_image: '/images/camplife2.jpg'
+featured_image: '/images/camplife2.jpg'
 ---
 
 

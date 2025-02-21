@@ -5,6 +5,7 @@ omit_header_text: true
 private: true
 draft: false
 read_more_copy: "Discover ..."
+featured_image: '/images/camplife2.jpg'
 ---
 
 

@@ -1,13 +1,13 @@
 ---
 date: 2025-01-01
 description: "Jordan Horses - How to contact us"
-featured_image: "/images/petra.jpg"
 tags: []
 omit_header_text: true
 private: true
 draft: false
-draft: false
 title: "Jordan Horses - How to contact us"
+cascade:
+  featured_image: '/images/camplife2.jpg'
 ---
 
 
@@ -18,12 +18,12 @@ Do you have any questions about our offerings? Would you like to make a booking?
 
 ### Email 
 
-fdoulmohammad86@gmail.com
+fdoulmohammad86 (at) gmail.com
 
 
 ### Mobile 
 
-+962 7 7259 0240
++ 962 7 7259 0240
 
 
 ###  Whatsapp
