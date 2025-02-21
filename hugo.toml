@@ -39,10 +39,6 @@ enableRobotsTXT = false
   weight = 6
 
 
-
-
-
-
 [pagination]
 pagerSize = 12 
 
@@ -60,11 +56,40 @@ post_content_classes = "avenir bg-light-silver"
 
 read_more_copy = "Discover..."
 
+
 [params.ananke.social.follow]
 networks = [
-  "facebook"
+  "facebook",
+  "instagram",
+  "tripadvisor",
+  "whatsapp"
 ]
 
+[params.ananke.social.share]
+networks = [
+]
+
+
+
 [params.ananke.social.facebook]
-username = "Petra.Jordan"
-# profilelink = "https://www.facebook.com/Petra.Jordan"
+username = "share/165JjGguuL" 
+# profilelink = "https://www.facebook.com/share/165JjGguuL/"
+
+[params.ananke.social.instagram]
+username = "fdoulmohammad86" 
+# profilelink = "https://www.instagram.com/fdoulmohammad86/"
+
+[params.ananke.social.networks.tripadvisor]
+slug = "tripadvisor"
+label = "tripadvisor"
+color = "#0645ad"
+profile = "https://www.tripadvisor.com/Attraction_Review-g318895-d24150955-Reviews-Petra_Horse_Ride_Adventure-Petra_Wadi_Musa_Ma_an_Governorate.html?fbclid=PAY2xjawIlh2NleHRuA2FlbQIxMAABpkECojVzE-Rw1z2UWrjTNrxhyZh6W6Xiy2M_xq4yBTmk6vUEXrmi0YAhWQ_aem_jGIXmq2-G2ystl5fXSDMRg"
+icon = "tripadvisor"
+
+[params.ananke.social.networks.whatsapp]
+slug = "whatsapp"
+label = "whatsapp"
+color = "#0645ad"
+profile = "https://wa.me/962772590240"
+icon = "whatsapp"
+
