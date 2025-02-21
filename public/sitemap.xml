@@ -2,40 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jordanhorse.pages.dev/options/option-2/</loc>
+    <loc>http://localhost:1313/jordanhorses/options/options_1/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jordanhorse.pages.dev/options/option-3/</loc>
+    <loc>http://localhost:1313/jordanhorses/options/options_2/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jordanhorse.pages.dev/options/option-4/</loc>
+    <loc>http://localhost:1313/jordanhorses/options/options_3/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jordanhorse.pages.dev/contact/</loc>
+    <loc>http://localhost:1313/jordanhorses/horses/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jordanhorse.pages.dev/horses/</loc>
+    <loc>http://localhost:1313/jordanhorses/contact/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jordanhorse.pages.dev/options/</loc>
+    <loc>http://localhost:1313/jordanhorses/options/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jordanhorse.pages.dev/team/</loc>
+    <loc>http://localhost:1313/jordanhorses/team/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jordanhorse.pages.dev/options/option-1/</loc>
+    <loc>http://localhost:1313/jordanhorses/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jordanhorse.pages.dev/options/option-5/</loc>
-    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/jordanhorses/categories/</loc>
   </url><url>
-    <loc>https://jordanhorse.pages.dev/</loc>
-    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/jordanhorses/tags/</loc>
   </url><url>
-    <loc>https://jordanhorse.pages.dev/categories/</loc>
-  </url><url>
-    <loc>https://jordanhorse.pages.dev/tags/</loc>
-  </url><url>
-    <loc>https://jordanhorse.pages.dev/camplife/</loc>
+    <loc>http://localhost:1313/jordanhorses/camplife/</loc>
   </url>
 </urlset>

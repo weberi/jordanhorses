@@ -1,6 +1,6 @@
 /* Change the footer background to a sand color */
 footer.bg-yellow {
-    background-color: #2E1B0D!important; /* Rock color */
+    background-color: #583D32 !important; /* Rock color */
 }
 
 
@@ -28,9 +28,12 @@ h1.f3.near-black a {
     font-family: 'Avenir', sans-serif !important;
 }
 
+.ananke-socials a span.icon svg path {
+  fill: #fff !important;
+  color: #fff !important;
+}
 
-
-/* article teasers */
+/* article summaries */
 
 h1.f3.fw1.athelas.mt0.lh-title a {
     font-family: Avenir, Helvetica, Arial, sans-serif;
