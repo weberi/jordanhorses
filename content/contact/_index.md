@@ -1,6 +1,6 @@
 ---
 date: 2025-01-01
-description: "We are happy to here from you"
+description: "We are happy to hear from you"
 tags: []
 omit_header_text: true
 private: true
@@ -11,21 +11,28 @@ cascade:
 ---
 
 
+Mohammad’s Horses is your gateway to an unforgettable adventure in Petra, Jordan! Located in Wadi Musa, just minutes from the ancient wonder of Petra, we offer authentic horseback riding experiences that let you explore this historic site like the Bedouins have for centuries.
 
-Mohammad’s Horses is located in Wadi Musa, the modern town near Petra, Jordan
-
-Do you have any questions about our offerings? Would you like to make a booking? Contact us!
-
-### Email  
-
-[fdoulmohammad86 (at) gmail.com](mailto:fdoulmohammad86@gmail.com?subject=Inquiry%20about%20Petra%20Tours)
+Whether you have questions about our tours, need help planning your trip, or are ready to book your ride through the breathtaking landscapes of Petra, we’d love to hear from you!
 
 
-### Mobile 
 
- +962 7 7259 0240
+**Have questions or ready to book? Reach out today and let's plan your perfect Petra adventure!**
 
 
-###  Whatsapp
 
-[Contact us on WhatsApp](https://wa.me/962772590240)
+
+> ### Email  
+>
+> [fdoulmohammad86 (at) gmail.com](mailto:fdoulmohammad86@gmail.com?subject=Inquiry%20about%20Petra%20Tours)
+>
+>
+>### Mobile 
+>  +962 7 7259 0240
+>
+>
+> ###  Whatsapp
+> [Message us on WhatsApp](https://wa.me/962772590240)
+
+
+Don't miss the chance to experience Petra on horseback—reach out today and let’s plan your perfect adventure!
