@@ -1,0 +1,17 @@
+{{/* 
+	GetBannerImage
+
+
+
+	@return RelPermalink to featured image, or an empty string if not found.
+
+*/}}
+
+{{ $imagePath := "images/camplife2.jpg" }}  {{/* No leading slash! */}}
+{{ $absoluteImagePath := print .Site.BaseURL $imagePath }}
+
+{{ warnf "DEBUG: Final Image Path -> %s" $absoluteImagePath }}
+
+{{ return $absoluteImagePath }}
+
+

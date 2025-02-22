@@ -8,7 +8,7 @@ enableRobotsTXT = false
 
 
 [params]
-custom_css = ["css/custom.css"]
+custom_css = ["custom.css"]
 mainSections = ["options", "team", "horses", "camplife", "contact"]
 background_color_class = "bg-yellow"
 cover_dimming_class = "bg-gold-80"

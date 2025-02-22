@@ -1,0 +1,28 @@
+{{ define "main" }}
+  <article class="pa3 pa4-ns nested-copy-line-height">
+    <section class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy {{ $.Param "text_color" | default "mid-gray" }}">
+      {{- .Content -}}
+    </section>
+    <section class="flex-ns flex-wrap justify-around mt5">
+      {{ range .Paginator.Pages }}
+        <div class="relative w-100 w-30-l mb4 bg-white">
+          <article>
+            {{ with .Params.featured_image }}
+              <div class="mb3">
+                <img src="{{ . }}" alt="{{ $.Title }}">
+              </div>
+            {{ end }}
+            <header>
+              <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+              <time datetime="{{ .Date }}">{{ .Date.Format "January 2, 2006" }}</time>
+            </header>
+            <div>
+              {{ .Render "summary-with-image" }} 
+            </div>
+          </article>
+        </div>
+      {{ end }}
+    </section>
+    {{- template "_internal/pagination.html" . -}}
+  </article>
+{{ end }}
