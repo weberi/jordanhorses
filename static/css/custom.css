@@ -1,3 +1,13 @@
+
+
+.ananke-socials a{
+  display: inline-block;
+  vertical-align: middle;
+  color: #FFFFFF;
+  fill: currentColor;
+}
+
+
 /* Change the footer background to a sand color */
 
 footer.bg-yellow {
