@@ -8,7 +8,6 @@ private: true
 draft: false
 tags: []
 title: "Indiana-Jones Archeological Trail Tour"
-featured_image: '/images/camplife2.jpg'
 summary: "What is unique about this tour is that you get to experience Petra from a different point of view, as you will be entering the ancient city via a different trail rather than using the main trail  _Al Siq_, and you have the ability to explore _Al Siq_ on your way back, this will grant you chance to explore almost 80% of Archeological park in one day.
 I have the ability to explain the history of the ancient city of Petra. and I provide a comprehensive Maps the show many Archaeological marks."
 ---

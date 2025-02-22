@@ -7,15 +7,15 @@
       {{ range .Paginator.Pages }}
         <div class="relative w-100 w-30-l mb4 bg-white">
           <article>
-            {{ with .Params.featured_image }}
+              <!--  {{ with .Params.featured_image }}
               <div class="mb3">
                 <img src="{{ . }}" alt="{{ $.Title }}">
               </div>
             {{ end }}
-            <header>
+         <header>
               <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
               <time datetime="{{ .Date }}">{{ .Date.Format "January 2, 2006" }}</time>
-            </header>
+            </header> -->
             <div>
               {{ .Render "summary-with-image" }} 
             </div>
