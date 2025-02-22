@@ -18,38 +18,15 @@
 
 
 
-    /* Blockquote styling without left border */
-    blockquote {
-        font-family: 'Avenir', sans-serif !important;
-        font-size: 1.2em;
-        color: #583D32 !important; /* Rock color */
-        background-color: #f0e3cc !important; /* Light sand */
-        padding: 15px 20px;
-        margin: 10px 0;
-        border-radius: 8px;
-        border: none !important; /* Remove any inherited border */
-    }
 
 
-    /* Improve email, phone, and WhatsApp box styling */
-    blockquote a {
-        color: #333333 !important; /* Slightly deeper blue */
-        text-decoration: underline;
-        font-weight: bold;
-    }
 
-    blockquote a:hover {
-        text-decoration: underline;
-        color: #868483  !important;; 
-    }
-
+/* ------------------------------------- */
     /* Apply Avenir font and custom color to the specific h1 */
     h1.f1.athelas.mt3.mb1 {
         font-family: 'Avenir', sans-serif !important;
         color: #583D32 !important; /* Change this to your preferred color */
     }
-
-
 
     h1.f3.near-black a {
         color: #583D32 !important; /* Ensure the color is applied */
