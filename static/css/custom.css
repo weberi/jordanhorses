@@ -1,3 +1,9 @@
+/* Change the footer background to a sand color */
+
+footer.bg-yellow {
+    background-color: #583D32 !important; /* Rock color */
+    font-size:  4px;
+}
 
 
 .ananke-socials a{
@@ -8,11 +14,6 @@
 }
 
 
-/* Change the footer background to a sand color */
-
-footer.bg-yellow {
-    background-color: #583D32 !important; /* Rock color */
-}
 
 
 /* Apply Avenir font and custom color to the specific h1 */
