@@ -5,10 +5,13 @@
     <loc>http://localhost:1313/jordanhorses/options/options_2/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/jordanhorses/about_us/horses/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/jordanhorses/options/options_3/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/jordanhorses/horses/</loc>
+    <loc>http://localhost:1313/jordanhorses/about_us/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/jordanhorses/contact/</loc>
@@ -17,7 +20,10 @@
     <loc>http://localhost:1313/jordanhorses/options/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/jordanhorses/team/</loc>
+    <loc>http://localhost:1313/jordanhorses/about_us/mohammad/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/jordanhorses/about_us/persons/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/jordanhorses/</loc>
@@ -27,8 +33,12 @@
   </url><url>
     <loc>http://localhost:1313/jordanhorses/options/options_1/</loc>
   </url><url>
-    <loc>http://localhost:1313/jordanhorses/camplife/</loc>
+    <loc>http://localhost:1313/jordanhorses/visit/camplife/</loc>
+  </url><url>
+    <loc>http://localhost:1313/jordanhorses/visit/</loc>
   </url><url>
     <loc>http://localhost:1313/jordanhorses/tags/</loc>
+  </url><url>
+    <loc>http://localhost:1313/jordanhorses/visit/jordanpass/</loc>
   </url>
 </urlset>

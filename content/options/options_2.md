@@ -19,8 +19,8 @@ This unique experience lets you explore many of Petra’s marvelous landmarks on
 - Horse riding experience  
 - Good physical condition and ability to trot and gallop  
 - Flexible pants, long sleeves, and a hat for sun protection. If you don't have your own helmet, one will be provided.  
-- Jordan Pass or Petra ticket ([See here](#) why you definitely should get a Jordan Pass)  
-
+- Jordan Pass or Petra ticket ([See here]({{< ref "visit/jordanpass.md" >}}) why you definitely should get a Jordan Pass)  
+- Important: Make sure to book in advance—we need to get special permits to enter Petra with horses before your trip!
 
 ### What Is Included
 
@@ -45,8 +45,9 @@ After taking in the views, we’ll find a peaceful spot in the shade to enjoy te
 Finally, we’ll exit the valley of Petra from the northern side and follow a short route along the road, returning to the main gate.
 
 ### Price
+
 Starting at 200 JOD per person depending on group size. Contact us for details.
----
+
 
 
 {{< figure src="https://weberi.github.io/jordanhorses/images/petraTour.jpg" title="Petra Tour" >}}

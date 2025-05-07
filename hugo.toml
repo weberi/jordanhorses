@@ -28,30 +28,24 @@ read_more_copy = "Discover..."
   weight = 1
 
   [[menu.main]]
-  name = "Options"
+  name = "Options&Prices"
   url = "/options/"
   weight = 2
 
   [[menu.main]]
-  name = "Team"
-  url = "/Team/"
+  name = "About us"
+  url = "/about_us/"
   weight = 3
 
   [[menu.main]]
-  name = "Horses"
-  url = "/horses/"
+  name = "Your Visit"
+  url = "/visit/"
   weight = 4
-
-  [[menu.main]]
-  name = "Camplife"
-  url = "/camplife/"
-  weight = 5
-
 
   [[menu.main]]
   name = "Contact"
   url = "/contact/"
-  weight = 6
+  weight = 5
 
 
 [pagination]

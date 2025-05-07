@@ -9,11 +9,18 @@
     <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/jordanhorses/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Horse Riding Tour in Petra-tomb Haroun Trial</title>
+      <title>Full Day Horseback Tour inside Petra</title>
       <link>http://localhost:1313/jordanhorses/options/options_2/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/jordanhorses/options/options_2/</guid>
-      <description>This is unique tour inside Petra, the travelers will not force to walk for long distances. we have certified horses the travelers can ride it and start his tour easily.&#xA;Moreover the travelers can see all the sites inside Petra while they ride the horses.</description>
+      <description>This unique experience lets you explore many of Petra’s marvelous landmarks on horseback. Combine a visit to Jordan’s number one attraction with a scenic horse ride. Over the course of a full day, you’ll discover the front section of Petra in a truly memorable way. Join us for a beautiful adventure.</description>
+    </item>
+    <item>
+      <title>Horses</title>
+      <link>http://localhost:1313/jordanhorses/about_us/horses/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jordanhorses/about_us/horses/</guid>
+      <description>we might provide extra pages for some horses, e.g., Angela, similar to the persons - just an idea to consider</description>
     </item>
     <item>
       <title>Indiana-Jones Archeological Trail Tour</title>
@@ -23,11 +30,39 @@
       <description>What is unique about this tour is that you get to experience Petra from a different point of view, as you will be entering the ancient city via a different trail rather than using the main trail  &lt;em&gt;Al Siq&lt;/em&gt;, and you have the ability to explore &lt;em&gt;Al Siq&lt;/em&gt; on your way back, this will grant you chance to explore almost 80% of Archeological park in one day. I have the ability to explain the history of the ancient city of Petra. and I provide a comprehensive Maps the show many Archaeological marks.</description>
     </item>
     <item>
+      <title>Mohammad Fdoul</title>
+      <link>http://localhost:1313/jordanhorses/about_us/mohammad/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jordanhorses/about_us/mohammad/</guid>
+      <description>Mohammad Fdoul, the owner of Jordan Horses,  warmly welcomes visitors to explore the beauty of his homeland on horseback while ensuring their safety and enjoyment throughout the journey.</description>
+    </item>
+    <item>
+      <title>Persons</title>
+      <link>http://localhost:1313/jordanhorses/about_us/persons/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jordanhorses/about_us/persons/</guid>
+      <description>we might provide extra pages for each  persons, similar to the Mohammad page</description>
+    </item>
+    <item>
       <title>Half-Day Private Indiana Jones Petra Back Road Trial Tour</title>
       <link>http://localhost:1313/jordanhorses/options/options_1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/jordanhorses/options/options_1/</guid>
       <description>Horse riding inside Petra structures and mountains is splendid experience which the tourist ever had. The back trial is unique because we will start it at little Petra which is unforgettable attraction site which leads to more exquisite places inside the old city Petra. Like the Monastery which is greatest and largest place in Petra. There will be a stunning view to mountains for Jordan and the west bank. The traveler will see the best view in the world there. Will be back to other site in Petra such as the theater, Royal tombs, and treasury the traveler will explore these place closely.</description>
+    </item>
+    <item>
+      <title>Jordan Horse Tours - Camplife</title>
+      <link>http://localhost:1313/jordanhorses/visit/camplife/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jordanhorses/visit/camplife/</guid>
+      <description>Learn about life at our camp!&#xA;Our camp offers an authentic, nature-focused experience in the heart of the desert. It gives you a sense of the traditional lifestyle of nomadic Bedouins, peaceful, simple, and far from modern comforts.&#xA;You’ll find yourself surrounded by the serene beauty of the desert landscape, accompanied by its most iconic animals: Arabian horses. These graceful creatures have been part of life in this region for centuries and are perfectly suited to its harsh and beautiful terrain.</description>
+    </item>
+    <item>
+      <title>When Jordan Pass is worthwhile</title>
+      <link>http://localhost:1313/jordanhorses/visit/jordanpass/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jordanhorses/visit/jordanpass/</guid>
+      <description>If you&amp;rsquo;re planning a trip to Jordan, the Jordan Pass is one of the smartest investments you can make. Find out about the benefits of Jordan Pass and how to get it</description>
     </item>
   </channel>
 </rss>
