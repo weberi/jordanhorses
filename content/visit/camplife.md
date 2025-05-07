@@ -12,13 +12,12 @@ summary: "
 
 Learn about life at our camp! 
 
-Our camp offers an authentic, nature-focused experience in the heart of the desert. It gives you a sense of the traditional lifestyle of nomadic Bedouins, peaceful, simple, and far from modern comforts.
+Our camp offers an authentic, nature-focused experience in the heart of the desert. It gives you a sense of the traditional lifestyle of nomadic Bedouins, peaceful and simple."
 
-You’ll find yourself surrounded by the serene beauty of the desert landscape, accompanied by its most iconic animals: Arabian horses. These graceful creatures have been part of life in this region for centuries and are perfectly suited to its harsh and beautiful terrain."
 --- 
 Learn about life a our camp! 
 
-Our camp offers an authentic, nature-focused experience in the heart of the desert. It gives you a sense of the traditional lifestyle of nomadic Bedouins, peaceful, simple, and far from modern comforts.
+Our camp offers an authentic, nature-focused experience in the heart of the desert. It gives you a sense of the traditional lifestyle of nomadic Bedouins, peaceful and simple.
 
 You’ll find yourself surrounded by the serene beauty of the desert landscape, accompanied by its most iconic animals: Arabian horses. These graceful creatures have been part of life in this region for centuries and are perfectly suited to its harsh and beautiful terrain.
 

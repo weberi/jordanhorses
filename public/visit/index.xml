@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jordan Horse Tours - Your Visit on Jordan Horses</title>
+    <link>http://localhost:1313/jordanhorses/visit/</link>
+    <description>Recent content in Jordan Horse Tours - Your Visit on Jordan Horses</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/jordanhorses/visit/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jordan Horse Tours - Camplife</title>
+      <link>http://localhost:1313/jordanhorses/visit/camplife/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jordanhorses/visit/camplife/</guid>
+      <description>Learn about life at our camp!&#xA;Our camp offers an authentic, nature-focused experience in the heart of the desert. It gives you a sense of the traditional lifestyle of nomadic Bedouins, peaceful and simple.</description>
+    </item>
+    <item>
+      <title>When Jordan Pass is worthwhile</title>
+      <link>http://localhost:1313/jordanhorses/visit/jordanpass/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jordanhorses/visit/jordanpass/</guid>
+      <description>If you&amp;rsquo;re planning a trip to Jordan, the Jordan Pass is one of the smartest investments you can make. Find out about the benefits of Jordan Pass and how to get it</description>
+    </item>
+  </channel>
+</rss>

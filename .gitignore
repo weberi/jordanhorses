@@ -1,12 +1,8 @@
 # Ignore Hugo build output
-public/
+
 resources/_gen/
 hugo_stats.json
 
-# Ignore all generated HTML, XML, CSS files (in any folder)
-*.html
-*.xml
-*.css
 
 # Ignore theme directory (if it's not a submodule)
 themes/
