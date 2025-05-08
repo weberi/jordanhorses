@@ -9,11 +9,11 @@ tags: []
 title: "3-Night 4-Day Wadi Araba Desert Horseback Experience"
 featured_image: '/images/camplife.jpg'
 summary: "
-This unforgettable multi-day adventure takes you deep into the golden sands of the Wadi Araba desert. Ride Arabian horses across breathtaking landscapes, enjoy traditional Bedouin hospitality, and witness some of Jordan's striking desert sunrises and sunsets. Perfect for adventurous travelers looking to immerse themselves in the natural beauty of southern Jordan and build a close connection with their horse.
+This unforgettable multi-day adventure takes you deep into the golden sands of the Wadi Araba desert. Ride Arabian horses across breathtaking landscapes, enjoy traditional Bedouin hospitality, and witness desert sunsets and nights. Perfect for adventurous travelers looking to immerse themselves in the natural beauty of southern Jordan and build a close connection with their horse.
 "
 ---
 
-This immersive, multi-day horseback adventure takes you deep into the golden sands of the Wadi Araba desert. Ride with Arabian horses across breathtaking terrain, enjoy warm Bedouin hospitality, and take in the magic of sunrises and sunsets that light up the desert sky. It’s a perfect escape for riders seeking a deeper connection with nature, with their horse, and with Jordan’s timeless landscape.
+This immersive, multi-day horseback adventure takes you deep into the golden sands of the Wadi Araba desert. Ride with Arabian horses across breathtaking terrain, enjoy warm Bedouin hospitality, and take in the magic desert nights and of sunrises and sunsets that light up the desert sky. It’s a perfect escape for riders seeking a deeper connection with nature, with their horse, and with Jordan’s timeless landscape.
 
 This camp runs only in **spring**, when the desert climate is  pleasant for riders and horses alike. Accommodations are simple and authentic: you’ll be staying in a Bedouin camp with only the **most basic amenities**. While there is **no hot water or electricity**, **Wi-Fi is available** for those who need to stay connected.
 
