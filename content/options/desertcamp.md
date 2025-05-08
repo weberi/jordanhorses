@@ -28,13 +28,19 @@ Start time: Check availability and reserve in advance
 - Camp 4: March 15 – 19  
 - Camp 5: March 20 – 24  
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 12f437c651769ddce8fd90d9fcad1f0ee694542a
 *If you're booking as a group, feel free to ask us about arranging other dates.*
 
 ### Group Size
 - Minimum: 2 people  
 - Maximum: 8 people  
+<<<<<<< HEAD
 - Solo travellers welcome
+=======
+>>>>>>> 12f437c651769ddce8fd90d9fcad1f0ee694542a
 
 ### What You Will Need
 
