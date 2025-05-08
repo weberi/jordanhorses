@@ -37,10 +37,8 @@ Start time: Check availability and reserve in advance
 ### Group Size
 - Minimum: 2 people  
 - Maximum: 8 people  
-<<<<<<< HEAD
 - Solo travellers welcome
-=======
->>>>>>> 12f437c651769ddce8fd90d9fcad1f0ee694542a
+
 
 ### What You Will Need
 
