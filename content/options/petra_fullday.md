@@ -1,6 +1,6 @@
 ---
 date: 2025-01-01
-description: "Horse Riding Tour in Petra-tomb Haroun Trial"
+description: "Full Day Horseback Tour inside Petra"
 text_color: "dark-gray"
 omit_header_text: true
 private: true
