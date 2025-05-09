@@ -32,9 +32,13 @@
     <loc>http://localhost:1313/jordanhorses/about_us/persons/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/jordanhorses/categories/</loc>
+    <loc>http://localhost:1313/jordanhorses/options/halfdayindianajonestour/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/jordanhorses/options/options_1/</loc>
+    <loc>http://localhost:1313/jordanhorses/options/indianajonestour/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/jordanhorses/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/jordanhorses/visit/camplife/</loc>
   </url><url>

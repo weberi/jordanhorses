@@ -13,9 +13,10 @@ This unforgettable multi-day adventure takes you deep into the golden sands of t
 "
 ---
 
-This immersive, multi-day horseback adventure takes you deep into the golden sands of the Wadi Araba desert. Ride with Arabian horses across breathtaking terrain, enjoy warm Bedouin hospitality, and take in the magic of desert nights and of the sunrises and sunsets that light up the desert sky. It’s a perfect escape for riders seeking a deeper connection with nature, with their horse, and with Jordan’s timeless landscape.
 
-This camp runs only in **spring**, when the desert climate is  pleasant for riders and horses alike. Accommodations are simple and authentic: you’ll be staying in a Bedouin camp with only the **most basic amenities**. While there is **no hot water or electricity**, **Wi-Fi is available** for those who need to stay connected.
+This immersive, multi-day horseback adventure takes you deep into the Wadi Araba desert. Ride with Arabian horses across its beautiful and vast natural reserves, enjoy warm Bedouin hospitality. Take in the magic of desert nights and breathtaking views of the sunset and sunrise on the soft golden sand. It is  perfect for riders seeking a deeper connection with nature, with their horse, and with Jordan’s timeless landscape.
+
+This camp runs only in **winter** and  **spring**, when the desert climate is  pleasant for riders and horses alike. Accommodations are simple and authentic: you’ll be staying in a Bedouin camp with only the **most basic amenities**. While there is **no hot water or electricity**, **Wi-Fi is available**.
 
 ### Duration
 **3 nights / 4 days**  

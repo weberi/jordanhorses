@@ -10,17 +10,31 @@
     <atom:link href="http://localhost:1313/jordanhorses/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>3-Night 4-Day Wadi Araba Desert Horseback Experience</title>
-      <link>http://localhost:1313/jordanhorses/options/desertcamp/</link>
+      <link>http://localhost:1313/jordanhorses/options/four-day-desertcamp/</link>
       <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/jordanhorses/options/desertcamp/</guid>
+      <guid>http://localhost:1313/jordanhorses/options/four-day-desertcamp/</guid>
       <description>This unforgettable multi-day adventure takes you deep into the golden sands of the Wadi Araba desert. Ride Arabian horses across breathtaking landscapes, enjoy traditional Bedouin hospitality, and witness desert sunsets and nights. Perfect for adventurous travelers looking to immerse themselves in the natural beauty of southern Jordan and build a close connection with their horse.</description>
     </item>
     <item>
       <title>Full Day Horseback Tour inside Petra</title>
-      <link>http://localhost:1313/jordanhorses/options/petra_fullday/</link>
+      <link>http://localhost:1313/jordanhorses/options/full-day-insidepetra/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/jordanhorses/options/petra_fullday/</guid>
+      <guid>http://localhost:1313/jordanhorses/options/full-day-insidepetra/</guid>
       <description>This unique experience lets you explore many of Petra’s marvelous landmarks on horseback. Combine a visit to Jordan’s number one attraction with a scenic horse ride. Over the course of a full day, you’ll discover the front section of Petra in a truly memorable way. Join us for a beautiful adventure.</description>
+    </item>
+    <item>
+      <title>Full-Day Little Petra Tour</title>
+      <link>http://localhost:1313/jordanhorses/options/full-day-littlepetra/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jordanhorses/options/full-day-littlepetra/</guid>
+      <description>Horse riding inside Petra&amp;rsquo;s structures and mountains is a splendid experience unlike any other. This unique back trail begins in Little Petra — an unforgettable attraction — and leads to breathtaking sites such as the Monastery, the largest monument in Petra.</description>
+    </item>
+    <item>
+      <title>Half Day Indiana Jones Archaeological Trail Tour in Petra</title>
+      <link>http://localhost:1313/jordanhorses/options/half-day-indianajones/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jordanhorses/options/half-day-indianajones/</guid>
+      <description>This unique tour offers a fresh perspective on Petra by taking you off the main tourist trail. Instead of entering through the usual path of Al Siq, you&amp;rsquo;ll begin on a scenic horseback journey through a lesser-known archaeological route. After the ride, you&amp;rsquo;ll walk back through the famous Siq on foot. You can explore nearly 80% of Petra&amp;rsquo;s archaeological park in a single day.</description>
     </item>
     <item>
       <title>Horses</title>
@@ -28,13 +42,6 @@
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/jordanhorses/about_us/horses/</guid>
       <description>we might provide extra pages for some horses, e.g., Angela, similar to the persons - just an idea to consider</description>
-    </item>
-    <item>
-      <title>Indiana-Jones Archeological Trail Tour</title>
-      <link>http://localhost:1313/jordanhorses/options/options_3/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/jordanhorses/options/options_3/</guid>
-      <description>What is unique about this tour is that you get to experience Petra from a different point of view, as you will be entering the ancient city via a different trail rather than using the main trail  &lt;em&gt;Al Siq&lt;/em&gt;, and you have the ability to explore &lt;em&gt;Al Siq&lt;/em&gt; on your way back, this will grant you chance to explore almost 80% of Archeological park in one day. I have the ability to explain the history of the ancient city of Petra. and I provide a comprehensive Maps the show many Archaeological marks.</description>
     </item>
     <item>
       <title>Mohammad Fdoul</title>
@@ -49,13 +56,6 @@
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/jordanhorses/about_us/persons/</guid>
       <description>we might provide extra pages for each  persons, similar to the Mohammad page</description>
-    </item>
-    <item>
-      <title>Half-Day Private Indiana Jones Petra Back Road Trial Tour</title>
-      <link>http://localhost:1313/jordanhorses/options/options_1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/jordanhorses/options/options_1/</guid>
-      <description>Horse riding inside Petra structures and mountains is splendid experience which the tourist ever had. The back trial is unique because we will start it at little Petra which is unforgettable attraction site which leads to more exquisite places inside the old city Petra. Like the Monastery which is greatest and largest place in Petra. There will be a stunning view to mountains for Jordan and the west bank. The traveler will see the best view in the world there. Will be back to other site in Petra such as the theater, Royal tombs, and treasury the traveler will explore these place closely.</description>
     </item>
     <item>
       <title>Jordan Horse Tours - Camplife</title>
