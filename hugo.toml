@@ -9,7 +9,7 @@ enableRobotsTXT = false
 
 [params]
 custom_css = ["custom.css"]
-mainSections = ["options", "team", "horses", "camplife", "contact"]
+mainSections = ["options", "about_us", "visit", "contact"]
 background_color_class = "bg-yellow"
 cover_dimming_class = "bg-gold-80"
 featured_image_class = "cover bg-top"
