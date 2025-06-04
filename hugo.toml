@@ -51,10 +51,9 @@ read_more_copy = "Discover..."
 [pagination]
 pagerSize = 12 
 
-
-
-
-
+[markup.goldmark.renderer]
+unsafe = true
+enableInlineShortcodes = true    
 [params.ananke.social.follow]
 networks = [
   "facebook",
@@ -101,4 +100,3 @@ icon = "envelope"
 
 
 
-# 
