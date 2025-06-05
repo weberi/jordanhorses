@@ -1,5 +1,5 @@
 ---
-title: "Booking Conditions, Waiver & Assumption of Risk"
+title: "Waiver & Assumption of Risk"
 description: "Mohammad Fdoul Horseback Riding – Booking Conditions, Waiver & Assumption of Risk"
 theme_version: '2.8.2'
 omit_header_text: true
@@ -7,7 +7,7 @@ private: true
 draft: false
 featured_image: '/images/horse-waiver.jpg'          # ← use any image in /static/images
 summary: |
-  Please read these booking conditions carefully.  
+  Please read these conditions carefully.  
   By signing, you acknowledge the inherent risks of horse riding and waive certain legal rights.
 ---
 
@@ -72,6 +72,6 @@ This release is binding on my heirs, executors, administrators, and assigns.
 
                           |           |                                  |
 
-[**⬇️ Download the waiver as a PDF**]({{ "docs/waiver.pdf" | relURL }})
+[Download the waiver as a PDF](docs/waiver.pdf)
 
 Thank you for choosing Mohammad Fdoul Horseback Riding. We look forward to providing you with a safe and memorable experience.
