@@ -1,15 +1,28 @@
-# Ignore Hugo build output
-
-resources/_gen/
-hugo_stats.json
 
 
-# Ignore theme directory (if it's not a submodule)
-themes/
+# ─── 1. Hugo build outputs ───────────────────────────────────────────────────
+public/                 # default publishDir
+resources/_gen/         # Image & assets pipeline outputs
+hugo_stats.json         # --gc / hugo --minify / PostCSS stats
 
-# Node modules (if you're using JS tooling)
+# ─── 2. Hugo cache & lock files (since v0.125) ───────────────────────────────
+.hugo_build.lock
+.hugo_build.cache/
+.cache/                 # optional: template & module cache
+
+# ─── 3. Node / frontend toolchains (Tailwind, PostCSS, etc.) ─────────────────
 node_modules/
+*.log                   # npm/yarn/pnpm logs
 
-# System files
+# ─── 4. OS-specific junk ─────────────────────────────────────────────────────
 .DS_Store
 Thumbs.db
+
+# ─── 5. Editor & IDE noise ───────────────────────────────────────────────────
+.vscode/
+.idea/
+*.sw?                   # Vim swap files
+*~                      # backup files left by many editors
+*.bak
+*.tmp
+
